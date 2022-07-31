@@ -1,0 +1,15 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Copilot Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "extensions.ignoreRecommendations": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "tabnine.experimentalAutoImports": true
+}
